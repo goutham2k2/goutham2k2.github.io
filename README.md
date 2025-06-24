@@ -3,7 +3,7 @@
 
 This is a responsive personal portfolio website for **Kalamalla Goutham**, a Java Developer passionate about building software solutions and showcasing technical and soft skills. The website highlights education, skills, experience, certifications, and contact information in a clean, interactive, and user-friendly format.
 
-🔗 [https://goutham2k2.github.io](#)
+🔗 [https://goutham2k2.github.io](https://goutham2k2.github.io)
 
 ## 🛠️ Built With
 
